@@ -1,7 +1,7 @@
 
 # 💼 Project Portfolio Webpage
 
-This is a **Project Portfolio Webpage** built using HTML, CSS, and Font Awesome. It highlights some of my key projects in AI, machine learning, and web development.
+This is a **Project Portfolio Webpage** built using HTML, CSS, and JavaScript  Font Awesome. It highlights some of my key projects in AI, machine learning, and web development.
 
 ## 🔍 Overview
 
